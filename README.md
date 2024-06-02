@@ -1,7 +1,7 @@
 # chatbot-react-flow-builder
 
-A chatbot flow is built by connecting multiple messages together to decide the
-order of execution.
+A chatbot flow is built by connecting multiple messages together to decide the order of execution.
+
 <img width="910" alt="image" src="https://github.com/chaudharyabhishek146/chatbot-react-flow-builder/assets/71595464/2faf4181-3839-4fdf-aa92-6da3d39f39dd">
 
 # Features:
